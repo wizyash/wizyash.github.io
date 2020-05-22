@@ -1,7 +1,7 @@
 body{
   margin: 0;
   padding: 0;
-  background: url(bg.jpg) no-repeat;
+  <!--  background: url(bg.jpg) no-repeat; -->
   background-size: cover;
 }
 .box{
@@ -11,8 +11,9 @@ body{
   text-align: center;
   margin: auto;
   margin-top: 5%;
+  margin-bottom: 5%;
   color: white;
-  font-family: 'Century Gothic',sans-serif;
+  font-family: 'Courier New',sans-serif;
 }
 .box-img{
   border-radius: 50%;
